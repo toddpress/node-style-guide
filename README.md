@@ -860,7 +860,7 @@ Heavily inspired by them as well:
 
       return this;
     }
-  ```
+    ```
 
 **[⬆ back to top](#table-of-contents)**
 
